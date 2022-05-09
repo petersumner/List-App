@@ -1,0 +1,12 @@
+store recipe as json
+{
+    name: "recipe name",
+    ingredients: {
+
+    }
+}
+
+searchable list of ingredients/items
+create recipes
+add ingredients from recipe to list
+add/remove ingredients from list
